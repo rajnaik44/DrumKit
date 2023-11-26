@@ -1,4 +1,4 @@
 # DrumKit
 
 #output
-![Capture4](https://github.com/rajnaik44/DrumKit/assets/114856688/32505510-5e28-4382-a8df-f5771e77c212)
+![DrumKit](https://github.com/rajnaik44/DrumKit/assets/114856688/671c06b0-80ec-4f90-b34a-b6b30e65c76b)
